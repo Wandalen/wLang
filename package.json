@@ -9,7 +9,7 @@
   "scripts" : { "test" : "wtest .run proto", "docgen" : "wdocgen .build proto" },
   "repository" : { "type" : "git", "url" : "https://github.com/Wandalen/wLang.git" },
   "bugs" : { "url" : "https://github.com/Wandalen/wLang/issues" },
-  "dependencies" : { "wTools" : "" },
-  "devDependencies" : { "wTesting" : "", "wlang" : "file:." },
+  "dependencies" : { "wTools" : "alpha" },
+  "devDependencies" : { "wlang" : "file:.", "wTesting" : "alpha" },
   "keywords" : [ "wTools" ]
 }
