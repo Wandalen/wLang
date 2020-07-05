@@ -1,5 +1,5 @@
 
-# wLang -- Experimental! [![Build Status](https://travis-ci.org/Wandalen/wLang.svg?branch=master)](https://travis-ci.org/Wandalen/wLang)
+# wLang -- Experimental! [![Status](https://github.com/Wandalen/wLang/workflows/Test/badge.svg)](https://github.com/Wandalen/wLang}/actions?query=workflow%3ATest)
 
 ___
 
