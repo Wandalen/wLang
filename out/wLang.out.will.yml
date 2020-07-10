@@ -1446,6 +1446,4 @@ module:
       ../.im.will.yml:
         hash: eac7a65d16302f744e4950260129e56e
         size: 4558
-      wLang.out.will.yml:
-        hash: 26445d0602588eb042fd1fa702a042df
-        size: 36577
+      wLang.out.will.yml: *ref_0
