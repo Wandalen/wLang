@@ -3,5 +3,5 @@ let _ = require( 'wlang' );
 
 /**/
 
-___
+console.log( '___ not implemented ___' );
 
