@@ -1,15 +1,1 @@
-{
-  "name" : "wlang",
-  "version" : "0.3.18",
-  "description" : "___",
-  "author" : "Kostiantyn Wandalen <wanalen@01.school>",
-  "license" : "MIT",
-  "main" : "proto/wtools/Tools.s",
-  "files" : [ "proto/wtools/___", "proto/wtools/Tools.s" ],
-  "scripts" : { "test" : "wtest .run 'proto/**' rapidity:-3", "docgen" : "wdocgen .build proto" },
-  "repository" : { "type" : "git", "url" : "https://github.com/Wandalen/wLang.git" },
-  "bugs" : { "url" : "https://github.com/Wandalen/wLang/issues" },
-  "dependencies" : { "wTools" : "alpha" },
-  "devDependencies" : { "wlang" : "file:.", "wTesting" : "alpha" },
-  "keywords" : [ "wTools" ]
-}
+{"name":"wlang","version":"0.3.19","description":"___","author":"Kostiantyn Wandalen <wanalen@01.school>","license":"MIT","main":"proto/wtools/Tools.s","files":["proto/wtools/___","proto/wtools/Tools.s"],"scripts":{"test":"wtest .run 'proto/**' rapidity:-3","docgen":"wdocgen .build proto"},"repository":{"type":"git","url":"https://github.com/Wandalen/wLang.git"},"bugs":{"url":"https://github.com/Wandalen/wLang/issues"},"dependencies":{"wTools":"alpha"},"devDependencies":{"wlang":"file:.","wTesting":"alpha"},"keywords":["wTools"]}
