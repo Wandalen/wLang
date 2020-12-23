@@ -1,6 +1,6 @@
 {
   "name" : "wlang",
-  "version" : "0.3.37",
+  "version" : "0.3.38",
   "description" : "___",
   "author" : "Kostiantyn Wandalen <wanalen@01.school>",
   "license" : "MIT",
@@ -10,6 +10,6 @@
   "repository" : { "type" : "git", "url" : "https://github.com/Wandalen/wLang.git" },
   "bugs" : { "url" : "https://github.com/Wandalen/wLang/issues" },
   "dependencies" : { "wTools" : "alpha" },
-  "devDependencies" : { "wlang" : "file:.", "wTesting" : "alpha" },
+  "devDependencies" : { "wlang" : "file:.", "eslint" : "7.1.0", "wTesting" : "alpha" },
   "keywords" : [ "wTools" ]
 }
